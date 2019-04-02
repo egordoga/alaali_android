@@ -1,4 +1,4 @@
-package ua.alaali;
+package ua.alaali.fragment;
 
 import android.app.Dialog;
 import android.content.Intent;
@@ -18,6 +18,8 @@ import androidx.fragment.app.Fragment;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
+import ua.alaali.LoginActivity;
+import ua.alaali.R;
 import ua.alaali.adapter.PictureAdapter;
 import ua.alaali.auth.AuthVisitorDto;
 import ua.alaali.model.Product;

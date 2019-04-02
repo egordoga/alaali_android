@@ -13,7 +13,6 @@ import androidx.fragment.app.FragmentTransaction;
 import androidx.lifecycle.ViewModelProviders;
 import androidx.recyclerview.widget.LinearLayoutManager;
 import androidx.recyclerview.widget.RecyclerView;
-import ua.alaali.ProductFragment;
 import ua.alaali.R;
 import ua.alaali.adapter.ProductAdapter;
 import ua.alaali.viewModel.AppViewModel;
